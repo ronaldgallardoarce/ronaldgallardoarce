@@ -9,7 +9,7 @@
 </pre>
 
     
-[![](https://img.shields.io/badge/Linkedin-0a66c2)](www.linkedin.com/in/ronald-gallardo-arce-a01b53279)
+[![](https://img.shields.io/badge/Linkedin-0a66c2)](https://www.linkedin.com/in/ronald-gallardo-arce-a01b53279)
 [![](https://img.shields.io/badge/Portfolio-93A1FC)]()
 </div>
 
@@ -53,7 +53,7 @@
 
 ## 📬 Contáctame
 - 📧 Email: ronaldgallardoarce78@gmail.com
-- 🌐 LinkedIn: [![](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ronald-gallardo-arce-a01b53279)
+- 🌐 LinkedIn: [![](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-gallardo-arce-a01b53279)
 - 🌟 Portafolio: [Enlace a mi portafolio]("")
 
 ---
