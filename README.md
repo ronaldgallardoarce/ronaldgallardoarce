@@ -10,7 +10,7 @@
 
     
 [![](https://img.shields.io/badge/Linkedin-0a66c2)](https://www.linkedin.com/in/ronald-gallardo-arce-a01b53279)
-[![](https://img.shields.io/badge/Portfolio-93A1FC)]()
+[![](https://img.shields.io/badge/Portfolio-93A1FC)](https://ronaldgallardoarce.vercel.app)
 </div>
 
 
