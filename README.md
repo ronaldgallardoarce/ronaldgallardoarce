@@ -26,10 +26,6 @@
       <sub><b>React</b></sub>
     </td>
     <td align="center">
-      <img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" height="40" alt="Angular" /><br/>
-      <sub><b>Angular</b></sub>
-    </td>
-    <td align="center">
       <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="40" alt="HTML5" /><br/>
       <sub><b>HTML5</b></sub>
     </td>
@@ -56,19 +52,11 @@
       <sub><b>Express.js</b></sub>
     </td>
     <td align="center">
-      <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="40" alt="MongoDB" /><br/>
-      <sub><b>MongoDB</b></sub>
-    </td>
-    <td align="center">
       <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="40" alt="PostgreSQL" /><br/>
       <sub><b>PostgreSQL</b></sub>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" height="40" alt="Vite" /><br/>
-      <sub><b>Vite</b></sub>
-    </td>
     <td align="center">
       <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="40" alt="Tailwind CSS" /><br/>
       <sub><b>Tailwind CSS</b></sub>
