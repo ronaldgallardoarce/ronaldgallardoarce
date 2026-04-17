@@ -2,8 +2,8 @@
 <div align="center">
 <br><br>
 <pre>
-  Soy un desarrollador web, 💻
-  apasionado por crear soluciones innovadoras y funcionales.  
+  Soy un Ingeniero de Sistemas y desarrollador fullstack, 💻
+  enfocado en crear soluciones innovadoras y funcionales.  
   Mi filosofía se basa en aprender algo nuevo cada día
   y aplicar ese conocimiento para resolver desafíos reales.🚀
 </pre>
