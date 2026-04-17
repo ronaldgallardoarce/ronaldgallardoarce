@@ -79,7 +79,6 @@
 <div align="center">
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?logo=visual-studio-code&logoColor=white)
 
 </div>
